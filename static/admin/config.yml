@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: vstanyshevskyy/vpershe
+  repo: Nakan4u/vpershe
   branch: main
 
 media_folder: "static/assets/uploads"
