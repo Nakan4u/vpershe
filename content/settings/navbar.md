@@ -9,6 +9,8 @@ links:
     url: /sexoteca
   - text: Поради
     url: /advice
+  - text: Ігри
+    url: /games
 socialIcons:
   - type: Facebook
     url: 'https://www.facebook.com/vpershe'
